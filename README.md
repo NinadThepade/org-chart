@@ -2,13 +2,12 @@
 Organization chart application
 
 To get started with this project, do the following:
+1) Git clone the project
+2) cd into the project
+3) run 'npm install' from the terminal
+4) install webpack and webpack-dev-server globally (if not done already):
+    npm install webpack -g
+    npm install webpack-dev-server -g
 
-Git clone the project
-cd into the project
-run 'npm install' from the terminal
-install webpack and webpack-dev-server globally (if not done already):
-  npm install webpack -g
-  npm install webpack-dev-server -g
-
-command to build the bundle: 'webpack'
-command to run: 'npm start'
+Command to build the bundle: 'webpack'
+Command to run: 'npm start'
